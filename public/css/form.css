@@ -1,0 +1,124 @@
+#customers{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+  width: 100%
+
+    
+}
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 1px;
+    
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+   
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 30px;
+  }
+  #customers td{
+      text-align: center;
+      font-size: 25px
+  }
+  .a{
+      margin-left: 35%;
+      font-size: 30px;
+  }
+  #add{
+      font-size: 30px;
+      margin-left: 45%
+  }
+
+  .masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('https://st4.depositphotos.com/1400069/25524/i/450/depositphotos_255240340-stock-photo-blurred-blue-background-gradient-fresh.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .btn-primary.custom-btn {
+	background-color: orange;
+    border-color:orange;
+    color: white;
+}
+
+   head,body{
+    background-image: url('https://st4.depositphotos.com/1400069/25524/i/450/depositphotos_255240340-stock-photo-blurred-blue-background-gradient-fresh.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+    margin-top:0%;
+    }
+    
+    .container{
+    height: 100%;
+    align-content: center;
+    }
+    
+    .card{
+    height: 370px;
+    margin-top: 15%;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(220,220,220,.3) !important;
+    }
+
+    .card-body {
+        -ms-flex: 1 1 auto;
+        flex: 1 1 auto;
+        min-height: 1px;
+        padding: 2.25rem;
+    }
+
+    .card-header h3{
+    color: black;
+    }
+
+    .remember{
+    color: black;
+    }
+    
+    .remember input
+    {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+    }
+    
+    .login_btn {
+    color: black;
+    background-color: orange;
+    width: 100px;
+    border-radius: 20px;
+    margin-top: -3%;
+    }   
+    
+    .login_btn:hover{
+    color: black;
+    background-color: orange;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+    
+    .links{
+    color: black;
+    }
+
+    a {
+        color: whitesmoke;
+        text-decoration: none;
+        background-color: transparent;
+    }
+
+    .form-check-label {
+        margin-bottom: 9px;
+    }

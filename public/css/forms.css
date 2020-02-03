@@ -1,0 +1,43 @@
+h1{
+    
+    font-size:40px;
+    text-align: center
+}
+head,body{
+  background-image: url('https://st4.depositphotos.com/1400069/25524/i/450/depositphotos_255240340-stock-photo-blurred-blue-background-gradient-fresh.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  font-family: 'Numans', sans-serif;
+  margin-top:0%;
+  }
+
+
+#customers{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+  width: 100%;
+  margin-top:-10%;
+
+    
+}
+
+  .a{
+      margin-left: 35%;
+      font-size: 30px;
+  }
+  #add{
+      font-size: 30px;
+      margin-left: 45%
+  }
+  
+  
+  #rows{
+    margin-left:8%
+  }
+  .tit{
+    text-align:center
+  }
+  .btn{
+    margin-bottom:10%;
+  }
